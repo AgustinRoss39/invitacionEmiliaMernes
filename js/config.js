@@ -10,7 +10,7 @@ window.INVITATION_CONFIG = {
     venue: "Rapsodia Multieventos",
     address: "Av. Roca 1797, Hurlingham",
     mapUrl: "https://maps.app.goo.gl/vx6PLRWgpxs4wVMq9",
-    whatsappNumber: "5491156223007",
+    whatsappNumber: "",
     whatsappMessage: "¡Hola! Confirmo mi asistencia al cumpleaños de Vicky. 💖✨",
     instagramUrl: "https://www.instagram.com/rossdigitalstudio/",
     instagramHandle: "@rossdigitalstudio",
